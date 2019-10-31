@@ -1,9 +1,11 @@
-#AUTO INSURANCE COMPANY
+**AUTO INSURANCE COMPANY
 
-##DESCRIPTION:
+**PROJECT DESCRIPTION:
+
 For an Auto Insurance Company we predict the customer life-time value(CLV), CLV is the total revenue the client will derive from the entire relationship with a customer. Our aim is also to find the customer base which would be more beneficial. 
 
-##APPROACH:
+**APPROACH:
+
 STEP 1: Data exploration and analysis:
         We find important charaterstics and patterns in our data set by making the correlation matrix and other graphs to find some
         hypothesis about what out data set is likely to support
